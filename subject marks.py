@@ -1,0 +1,9 @@
+phy = int(input("Enter the marks obtained by student in physics:"))
+chem = int(input("Enter the marks obtained by student in chemistry:"))
+math = int(input(" Enter the marks obtained by student in mathematics:"))
+eng = int(input("Enter the marks obtained by student in english:"))
+lit = int(input("Enter the marks obtained by student in Lierature:"))
+total = phy+chem+math+eng+lit
+percentage = total*100//500
+print("The total marks obtained by student in all 5 subjects=", total)
+print("The overall percentage obtained by student=", percentage)
