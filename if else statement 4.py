@@ -1,5 +1,4 @@
 # Printing word for digit
-print("----------------------")
 n = int(input("Enter a digit:"))
 if n==0:
     print("Zero")
