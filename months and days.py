@@ -1,4 +1,4 @@
-#months and its days
+#month and number of days it has
 m = int(input("Enter a month:"))
 if m ==1:
     print(m,"st month has 31 days")
