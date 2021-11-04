@@ -1,4 +1,4 @@
-Logical operators:-
+Assignment operators:-
 
 To assign values to variables
 
