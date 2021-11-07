@@ -1,6 +1,7 @@
-print("Comparisonal or Relational operators:")
-print("-------------------------------------")
-print("A Boolean value (True / False)\n")
+#Comparisonal or Relational operators:
+
+#A Boolean value (True / False)
+
 print("< = Less than\n")
 print("> = Greater than\n")
 print("<= = Less than or equal to\n")
