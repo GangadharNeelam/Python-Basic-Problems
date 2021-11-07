@@ -1,0 +1,12 @@
+Assignment operators:-
+
+To assign values to variables
+
+= ---> Equals
++= ---> Add assign 
+-= ---> subtract and assign
+*= ---> Multiply and assign
+/= ---> divide and assign
+//= ---> Floor divide and assign 
+%= ---> Modulo divide and assign
+** ---> Exponent and assign
