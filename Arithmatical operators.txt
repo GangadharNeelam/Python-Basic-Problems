@@ -1,0 +1,15 @@
+ARITHMETICAL OPERATORS :
+
++ --> Addition
+
+- --> Subtraction
+
+* --> Multiplication
+
+/ --> Division
+
+// --> Floor division
+
+% --> Modulo division
+
+** --> Exponentiation
