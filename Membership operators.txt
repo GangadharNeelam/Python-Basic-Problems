@@ -1,0 +1,10 @@
+MEMBERSHIP OPERATORS :
+
+in 
+
+not in
+
+    These are used to test whether a value or variable is 
+    found in a sequence (string, list, tuple, set and dictionary).
+
+   
